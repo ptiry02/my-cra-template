@@ -1,0 +1,17 @@
+{
+  "package": {
+    "dependencies": {
+      "react-hook-form": "^7.31.0",
+      "styled-components": "^5.3.5"
+    },
+    "eslintConfig": {
+      "rules": {
+        "no-unused-vars": 0
+      }
+    },
+    "prettier": {
+      "singleQuote": true,
+      "semi": false
+    }
+  }
+}

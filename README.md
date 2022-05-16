@@ -1,8 +1,8 @@
 # Basic Template
 
-This is a template for a new react app with styled components and react-hook-form dependencies installed.
+This is a template for a new react app with a few dependencies installed which I consider esential.
 
-The src file comes with a few empty files to help organize your project.
+The src file comes with a few empty files to help organize your project:
 
 - assets: for images and what-not...
 - components: for components (duuh!).
@@ -12,3 +12,9 @@ The src file comes with a few empty files to help organize your project.
 - storage: for storing context states.
 
 Also, a few prettier and eslint tweaks are added.
+
+To start your project with this template run:
+
+```zsh
+npx create-react-app [your-project-name] --template
+```

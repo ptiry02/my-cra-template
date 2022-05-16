@@ -1,14 +1,23 @@
 {
   "name": "@ptiry02/cra-template-basic-template",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Paul Tiry <tirypaul@gmail.com>",
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "styled-components",
+    "react-hook-form",
+    "no-unused-vars",
+    "basic",
+    "react-router",
+    "cra-template",
+    "react template",
+    "basic",
+    "starting template"
   ],
-  "description": "A basic blank template for React with styled components",
+  "description": "A basic blank template for React with a few basic dependencies.",
   "main": "template.json",
   "repository": {
     "type": "git",
@@ -16,10 +25,14 @@
     "directory": "/"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=15"
   },
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/ptiry02/my-cra-template/issues",
+    "email": "tirypaul@gmail.com"
+  }
 }

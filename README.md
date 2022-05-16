@@ -8,6 +8,7 @@ The src file comes with a few empty files to help organize your project.
 - components: for components (duuh!).
 - helpers: in case you like to store separetly multi-use constants, functions, etc...
 - hooks: for storing your custom hooks.
+- public: for files and/or directories that may be public.
 - storage: for storing context states.
 
 Also, a few prettier and eslint tweaks are added.

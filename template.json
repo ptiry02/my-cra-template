@@ -1,10 +1,10 @@
 {
   "package": {
     "dependencies": {
-      "eslint": "^8.15.0",
-      "react-hook-form": "^7.31.0",
-      "styled-components": "^5.3.5",
-      "web-vitals": "^2.1.4"
+      "eslint": ">=8.0.0",
+      "react-hook-form": ">=7.0.0",
+      "styled-components": ">=5.0.0",
+      "react-router": ">= 5.0.0"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"],

@@ -1,5 +1,5 @@
 {
-  "name": "@ptiry02/cra-template-basic-template",
+  "name": "@ptiry02/cra-base-template",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Paul Tiry <tirypaul@gmail.com>",
@@ -7,6 +7,8 @@
     "react",
     "create-react-app",
     "template",
+    "cra",
+    "cra-template",
     "styled-components",
     "react-hook-form",
     "no-unused-vars",

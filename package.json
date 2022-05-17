@@ -38,6 +38,6 @@
     "email": "tirypaul@gmail.com"
   },
   "scripts": {
-    "postinstall": "mkdir src/assets/ src/components/ src/helpers/ src/hooks/ src/public/ src/storage/"
+    "postinstall": "mkdir /src/assets/ /src/components/ /src/helpers/ /src/hooks/ /src/public/ /src/storage/"
   }
 }

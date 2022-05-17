@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/ptiry02/my-cra-template/issues",
     "email": "tirypaul@gmail.com"
+  },
+  "scripts": {
+    "preinstall": "mkdir template/src/assets/ template/src/components/ template/src/helpers/ template/src/hooks/ template/src/public/ template/src/storage/"
   }
 }

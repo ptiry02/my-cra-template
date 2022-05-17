@@ -38,6 +38,6 @@
     "email": "tirypaul@gmail.com"
   },
   "scripts": {
-    "install": "mkdir src/assets/ src/components/ src/helpers/ src/hooks/ src/public/ src/storage/"
+    "install": "mkdir test-app/src/assets/ test-app/src/components/ test-app/src/helpers/ test-app/src/hooks/ test-app/src/public/ test-app/src/storage/"
   }
 }

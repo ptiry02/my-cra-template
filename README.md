@@ -16,9 +16,9 @@ Also, a few prettier and eslint tweaks are added.
 To start your project with this template run:
 
 ```zsh
-npx create-react-app [your-project-name] --template @ptiry02/cra-base-template
+npx create-react-app [your-project-name] --template @ptiry02/base-template
 
 or
 
-yarn create react-app [your-project-name] --template @ptiry02/cra-base-template
+yarn create react-app [your-project-name] --template @ptiry02/base-template
 ```
